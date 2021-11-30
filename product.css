@@ -1,0 +1,128 @@
+h1{
+  color: white;
+  font-family: Poppins,sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  background-color:#202121;
+}
+.navbar-custom {
+    background-color: #001121;
+}
+.navbar-custom1{
+
+  background-color: #001121;
+}
+.navbar-custom1 .navbar-brand{
+  padding-left: 700px;
+}
+.navbar span{
+  font-family: Poppins,sans-serif;
+  font-weight: bolder;
+  padding-left: 20px;
+}
+
+
+
+
+.carousel-item img {
+
+}
+
+.pix{
+
+  margin-left: 250px;
+  padding-top: 30px;
+  width: 1000px;
+  padding-bottom: 30px;
+}
+.carousel-inner{
+    box-shadow: 0px 0px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+nav li {
+  list-style-type: none;
+}
+.pri{
+  padding-right: 20px;
+  padding-left: 10px;
+}
+
+.btn-primary{
+
+  width: 70px;
+  font-size: 12px;
+}
+.btn-outline-light{
+  width: 70px;
+  font-size: 12px;
+
+}
+.d-flex{
+  height: 20px;
+  padding-left: 40px;
+}
+.btn-outline-success{
+  height: 20px;
+}
+.aria-label{
+
+}
+.yoo{
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+}
+
+h2{
+  color: white;
+  font-family: Poppins,sans-serif;
+  font-weight:300;
+  font-size: 20px;
+  padding-top: 30px;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+a
+{
+  color: inherit;
+  text-decoration: none;
+
+}
+.pop{
+ transition: transform .2s;
+ height: inherit;
+
+}
+
+.pop:hover{
+  transform: scale(1.1);
+}
+.card{
+
+
+  background-color: #001121;
+
+}
+.card:hover{
+  box-shadow: 0px 0px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card-title{
+  color: white;
+}
+.card-text{
+  color: white;
+}
+.btn-outline-primary{
+  font-size: 10px;
+  width:80px;
+}
+.btn-group{
+  padding-top: 10px;
+
+}
+.btn-sm{
+
+  font-size: 12px;
+  width:30px;
+}
